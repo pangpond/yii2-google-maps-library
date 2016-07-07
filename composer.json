@@ -14,7 +14,7 @@
             "name": "pangpond",
             "email": "pondzz@gmail.com",
             "homepage": "http://pangpondblog.com"
-        },
+        }
     ],
     "require": {
         "yiisoft/yii2": "*",
