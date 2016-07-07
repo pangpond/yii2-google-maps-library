@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-google-maps-library",
+    "name": "pangpond/yii2-google-maps-library",
     "description": "Google Maps API library for Yii2.",
     "keywords": ["yii", "extension", "library", "google", "maps"],
     "type": "yii-extension",
@@ -11,10 +11,10 @@
             "homepage": "http://2amigos.us"
         },
         {
-            "name": "Antonio Ramirez",
-            "email": "ramirez.cobos@gmail.com",
-            "homepage": "http://www.ramirezcobos.com"
-        }
+            "name": "pangpond",
+            "email": "pondzz@gmail.com",
+            "homepage": "http://pangpondblog.com"
+        },
     ],
     "require": {
         "yiisoft/yii2": "*",
